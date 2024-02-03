@@ -27,4 +27,4 @@ for item in all:
     if item[1] == type and item[2] == mood:
        print (choice(emoji) + item[0])
     else:
-       print ('Nothing it that category')
+       pass
